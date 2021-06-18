@@ -1,0 +1,27 @@
+{
+  "name": "tddbook-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkd/tddbook-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkd/tddbook-typescript/issues"
+  },
+  "homepage": "https://github.com/kkd/tddbook-typescript#readme",
+  "devDependencies": {
+    "ts-jest": "^27.0.3",
+    "ts-node": "^9.1.1"
+  },
+  "dependencies": {
+    "typescript": "^4.3.4"
+  }
+}
