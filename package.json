@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/kkd/tddbook-typescript#readme",
   "devDependencies": {
+    "@types/jest": "^26.0.23",
     "ts-jest": "^27.0.3",
     "ts-node": "^9.1.1"
   },
